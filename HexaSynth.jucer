@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="uQb9UL" name="Generative I Ching Synthesizer" projectType="guiapp"
-              useAppConfig="0" addUsingNamespaceToJuceHeader="0" displaySplashScreen="1"
-              jucerFormatVersion="1" companyName="Cult of Silicon">
-  <MAINGROUP id="HuO3UG" name="Generative I Ching Synthesizer">
+<JUCERPROJECT id="uQb9UL" name="HexaSynth" projectType="guiapp" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              companyName="Cult of Silicon">
+  <MAINGROUP id="HuO3UG" name="HexaSynth">
     <GROUP id="{18C42114-60E4-A3B9-E4BD-3D7755399C0A}" name="Source">
       <FILE id="BcVfsq" name="LineComponent.cpp" compile="1" resource="0"
             file="Source/LineComponent.cpp"/>

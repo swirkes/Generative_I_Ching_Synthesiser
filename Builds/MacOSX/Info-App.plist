@@ -8,11 +8,11 @@
     <key>CFBundleIconFile</key>
     <string></string>
     <key>CFBundleIdentifier</key>
-    <string>com.CultofSilicon.GenerativeIChingSynthesizer</string>
+    <string>com.CultofSilicon.HexaSynth</string>
     <key>CFBundleName</key>
-    <string>Generative I Ching Synthesizer</string>
+    <string>HexaSynth</string>
     <key>CFBundleDisplayName</key>
-    <string>Generative I Ching Synthesizer</string>
+    <string>HexaSynth</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleSignature</key>

@@ -122,12 +122,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		02D895E7FC7C9E3D8279DF55 /* Generative I Ching Synthesizer */ = {
+		02D895E7FC7C9E3D8279DF55 /* HexaSynth */ = {
 			isa = PBXGroup;
 			children = (
 				3B863F71FFB95D092F10364F,
 			);
-			name = "Generative I Ching Synthesizer";
+			name = HexaSynth;
 			sourceTree = "<group>";
 		};
 		3B863F71FFB95D092F10364F /* Source */ = {
@@ -239,7 +239,7 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		63D80921C7BF7C98532D34FD /* Generative I Ching Synthesizer - App */ = {
+		63D80921C7BF7C98532D34FD /* HexaSynth - App */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = A598DC3A03703A4F45FCF975;
 			buildPhases = (
@@ -251,8 +251,8 @@
 			);
 			dependencies = (
 			);
-			name = "Generative I Ching Synthesizer - App";
-			productName = "Generative I Ching Synthesizer";
+			name = "HexaSynth - App";
+			productName = HexaSynth;
 			productReference = 70071034DF52383113385FC3;
 			productType = "com.apple.product-type.application";
 		};
@@ -402,7 +402,7 @@
 				LLVM_LTO = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				MTL_HEADER_SEARCH_PATHS = "$(SRCROOT)/../../JuceLibraryCode /Applications/JUCE/modules";
-				PRODUCT_BUNDLE_IDENTIFIER = com.CultofSilicon.GenerativeIChingSynthesizer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.CultofSilicon.HexaSynth;
 				PRODUCT_NAME = "Appy";
 				USE_HEADERMAP = NO;
 				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
@@ -512,7 +512,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				MTL_HEADER_SEARCH_PATHS = "$(SRCROOT)/../../JuceLibraryCode /Applications/JUCE/modules";
-				PRODUCT_BUNDLE_IDENTIFIER = com.CultofSilicon.GenerativeIChingSynthesizer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.CultofSilicon.HexaSynth;
 				PRODUCT_NAME = "Appy";
 				USE_HEADERMAP = NO;
 				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
